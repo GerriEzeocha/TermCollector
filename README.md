@@ -5,5 +5,5 @@ It displays terms in a List and displays each defintion as user clicks on each t
 It also allows editing of terms/definitions.
 User is able to save collection of terms/definitions to a text file for each topic
 
-Follow below link to watch a working video of this program:
+Click to watch a working video of this program:
 https://uis.mediaspace.kaltura.com/id/1_v9s4cqwu?width=720&height=405&playerId=46134541
